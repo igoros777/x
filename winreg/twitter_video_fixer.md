@@ -18,7 +18,7 @@ The script monitors a downloads directory for video files and automatically re-e
 
 ### Default Settings
 
-- Input Directory: `/mnt/c/Users/ichmo/Downloads`
+- Input Directory: `/mnt/c/Users/igor/Downloads`
 - Supported File Types: `.mp4`, `.mov`
 - Processing Limit: Last 10 files by default (configurable via command line)
 - Output Resolution: Scaled to 640px width while maintaining aspect ratio
