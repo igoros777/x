@@ -1,5 +1,5 @@
 #!/bin/bash
-indir="/mnt/c/Users/ichmo/Downloads"
+indir="/mnt/c/Users/igor/Downloads"
 cd "${indir}"
 ftype="mp4|mov"
 i="${1}"
