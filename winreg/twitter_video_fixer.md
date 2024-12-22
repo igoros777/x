@@ -1,6 +1,7 @@
 # Twitter Video Fixer Script
 
 A bash script that re-encodes video files for better compatibility with X (formerly Twitter), ensuring optimal playback and quality while meeting platform requirements.
+https://github.com/igoros777/x/blob/main/winreg/twitter_video_fixer.sh
 
 ## Overview
 
