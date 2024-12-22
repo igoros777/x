@@ -1,5 +1,6 @@
 # Firefox Update Control via Registry Settings
-
+_For those who choose not to be guinea pigs for the Agile development model.
+_
 This document describes registry modifications that control Firefox's automatic update behavior at the system level.
 
 ## Registry Location
