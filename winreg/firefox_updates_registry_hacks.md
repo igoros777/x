@@ -1,7 +1,7 @@
 # Firefox Update Control via Registry Settings
-_For those who choose not to be guinea pigs for the Agile development model.
-_
-This document describes registry modifications that control Firefox's automatic update behavior at the system level.
+*For those who choose not to be guinea pigs for the Agile development model.*
+
+This document describes registry modifications that control Firefox's automatic update behavior at the system level. And before you mention "critical vulnerabilities," let me remind you that the infosec industry is currently over $200 billion globally in market size and is projected to exceed $400 billion in less than five years. Don't take everything you hear too seriously.
 
 ## Registry Location
 
