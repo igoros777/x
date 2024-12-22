@@ -13,6 +13,8 @@ HKEY_LOCAL_MACHINE\Software\Policies\Mozilla\Firefox
 
 ### Disable Firefox Updates
 File: `disable_firefox_updates.reg`
+https://github.com/igoros777/x/blob/main/winreg/disable_firefox_updates.reg
+
 ```reg
 Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\Software\Policies\Mozilla\Firefox]
@@ -21,6 +23,8 @@ Windows Registry Editor Version 5.00
 
 ### Enable Firefox Updates
 File: `enable_firefox_updates.reg`
+https://github.com/igoros777/x/blob/main/winreg/enable_firefox_updates.reg
+
 ```reg
 Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\Software\Policies\Mozilla\Firefox]
