@@ -5,7 +5,7 @@
 #                          __________/ o \__________
 #                            (I) (G) \___/ (O) (R)
 #                                   Igor Os
-#                              igor@igoros.com
+#                               igor@igoros.com
 #                                 2024-12-11
 # ----------------------------------------------------------------------------
 # Script description
@@ -113,3 +113,4 @@ create_user
 create_home
 update_sudoers
 update_authorized_keys
+update_sshd_config
