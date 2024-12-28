@@ -1,4 +1,5 @@
 # Local Superuser Setup Script
+https://github.com/igoros777/x/blob/main/bash/add_superuser.sh
 
 ## Overview
 
